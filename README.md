@@ -15,8 +15,8 @@ This project demonstrates a real-time data pipeline using Kafka, PySpark, MongoD
 - Docker
 - Gitpod/GitHub
 
-Directory structure
-# config/
+# Directory structure
+**# config/
 #     db_config.py
 #     kafka_config.py
 # dashboard/
@@ -32,7 +32,7 @@ Directory structure
 # producer.py
 # requirements.txt
 # setup.sh
-# README.md
+# README.md**
 
 ## Setup Instructions
 1. Clone the repository:
