@@ -1,0 +1,10 @@
+# .gitpod.yml
+image: python:3.8
+
+tasks:
+  - name: Setup Environment
+    command: bash setup.sh
+
+ports:
+  - port: 5000
+    onOpen: open-preview
